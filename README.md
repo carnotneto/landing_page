@@ -1,6 +1,6 @@
 # Desafio #1 proposto pela DIO.ME no curso Formação CSS Developer --> Réplica do site CSS DIO
 
-[Clique aqui]([https://carnotneto.github.io/landing_page/]) para acessar o resultado final da Landing Page criada a partir do desafio!
+[Clique aqui](https://carnotneto.github.io/landing_page/) para acessar o resultado final da Landing Page criada a partir do desafio!
 
 [Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio.
 
